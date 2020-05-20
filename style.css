@@ -17,9 +17,9 @@ h5 {
 
 hr {
     border-color: #16001e;
-    border-style: dotted;
+    border-style: dashed;
     border-top: none;
-    border-width: 5px;
+    border-width: 1px;
 }
 
 li {
